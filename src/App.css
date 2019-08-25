@@ -1,0 +1,30 @@
+.container-fluid{
+  margin:10px;
+}
+.listHead{
+  background-color: grey;
+  color:white;
+}
+.listName{
+  line-height: 60px;
+}
+.taskCountContainer{
+  background-color: white;
+  margin:10px;
+  color:black;
+  text-align: center;
+  width:70px;
+}
+.boldFont{
+  font-weight: bold;
+}
+.lists{
+  padding:20px 0px;
+  background-color: white;
+  color:black;
+  border-bottom: 1px solid lightgrey;
+
+}
+.alignRight{
+  float: right;
+}
