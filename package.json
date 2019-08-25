@@ -1,6 +1,7 @@
 {
   "name": "aleph-poc",
   "version": "0.1.0",
+  "homepage":"https://github.com/Statowfiq/todo",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
